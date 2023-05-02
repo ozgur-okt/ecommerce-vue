@@ -121,6 +121,7 @@ export default {
     font-size: 20px;
     letter-spacing: 4px;
     font-weight: lighter;
+    margin-top: 40px;
 }
 
 .cart-clean {
